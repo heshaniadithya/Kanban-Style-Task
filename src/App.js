@@ -35,7 +35,7 @@ function App() {
       <div className="flex flex-row items-center">
        <p className="text-xl pl-6">Click</p>
        <AddTask taskList={taskList} setTaskList={setTaskList} />
-      <p className="text-xl my-2">to add a new task</p> 
+      <p className="text-xl my-2">To add a new task</p> 
       </div>
       <div className="flex flex-row">
       <div className="w-full">
